@@ -5,3 +5,4 @@ You can try it on [codepen](https://codepen.io/bartercodepen/pen/wvzGqQa) or can
   npm install  
   npm run dev
 </code>
+![Snake gif](snake.gif "Snake gif")
